@@ -1,11 +1,11 @@
 {
-    "name": "charles-rumley/php-po-to-json",
+    "name": "Stoyan0v/php-po-to-json",
     "type": "package",
     "license": "MIT",
     "authors": [
         {
-            "name": "Charles Rumley",
-            "email": "charles.rumley@gmail.com"
+            "name": "Stanimir Stoyanov",
+            "email": "stanimir.k.stoyanov@gmail.com"
         }
     ],
     "description": "",
